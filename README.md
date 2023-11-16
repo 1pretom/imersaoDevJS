@@ -1,4 +1,4 @@
-# imersaoDev
+# imersaoDev JS
  Imersão Dev da Alura
 
 ## Aula 1 
